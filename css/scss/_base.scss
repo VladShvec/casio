@@ -10,7 +10,12 @@ html,body
 	font-family: 'Open Sans' ,sans-serif;
 	position: relative;
 }
-
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
 .wrapper {
     overflow: hidden;
     position: relative;
